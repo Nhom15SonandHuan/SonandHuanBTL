@@ -8,57 +8,77 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nhom15
 build_property.RootNamespace = Nhom15
-build_property.ProjectDir = c:\Users\ASUS\OneDrive\Desktop\Nhom15\
+build_property.ProjectDir = c:\Users\ASUS\OneDrive\Desktop\SonandHuanBTL\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\ASUS\OneDrive\Desktop\Nhom15
+build_property.MSBuildProjectDirectory = c:\Users\ASUS\OneDrive\Desktop\SonandHuanBTL
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Customer/Create.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Customer/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Customer/Delete.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Customer/Detail.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Customer/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Customer/Edit.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Customer/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Customer/Index.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Home/Index.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Employee/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Home/Privacy.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Shared/Error.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/_ViewImports.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/_ViewStart.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/ASUS/OneDrive/Desktop/Nhom15/Views/Shared/_Layout.cshtml]
+[c:/Users/ASUS/OneDrive/Desktop/SonandHuanBTL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-m46jm56fz9
