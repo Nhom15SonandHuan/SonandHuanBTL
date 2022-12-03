@@ -13,5 +13,8 @@ namespace Nhom15.Data
         {
         }
         public DbSet<Nhom15.Models.Customer>? Customer { get; set; } =default!;
+        public DbSet<Nhom15.Models.TTNV>? TTNV { get; set; } =default!;
+        public DbSet<Nhom15.Models.TTDC>? TTDC { get; set; }
+        
     }
 }

@@ -1,14 +1,13 @@
 using System.Data;
 namespace Nhom15.Models
 {
-    public class Customer
+    public class TTNV
     {
         public string ID { get; set; }
 
         public string Name { get; set; }
+        public string Age { get; set; }
 
-        public int Phone { get; set; }
-        public int Age { get; set; }
-        
+        public string Salary { get; set; }
     }
 }
